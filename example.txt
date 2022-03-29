@@ -12,6 +12,7 @@ Hello World! by OzzXin 2022-03-29
 write an ending here
 
 what a nice day! finished the work and go home.
+what! It's a dream.
 =======
 Once upon a time there was a programmer. But he didn't ever use git! After all,
 he was a good programmer and didn't need to. 
